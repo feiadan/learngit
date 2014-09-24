@@ -5,3 +5,4 @@ Createting a new branch is quick & simple.
 Createting AND money.
 will delete?
 no fast forward.
+dev modify 2nd.
